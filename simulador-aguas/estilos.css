@@ -62,6 +62,17 @@ button:hover {
   background: var(--verde-medio);
 }
 
-#mensajeError { color:red; font-weight:bold; text-align:center; }
-#mensajeExito { color:green; font-weight:bold; text-align:center; }
+#mensajeError { 
+  color: red; 
+  font-weight: bold; 
+  text-align: center; 
+}
+
+#mensajeExito { 
+  color: green; 
+  font-weight: bold; 
+  text-align: center; 
+}
+
+
 
